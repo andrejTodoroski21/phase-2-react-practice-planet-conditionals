@@ -24,6 +24,10 @@ code {
   background-color: white;
   color: black;
 }
+.App.dark-mode {
+  background-color: #000;
+  color:ffffff;
+  }
 
 .flex {
   display: flex;
